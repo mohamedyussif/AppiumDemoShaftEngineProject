@@ -1,0 +1,12 @@
+{
+  "searchQuery": "SHAFT_Engine",
+  "companyName": "_VOIS",
+  "Accessibility": "Accessibility Node Provider",
+  "EnteredWord" : "Appium",
+  "ExpectedWord" : "Appium",
+  "ChosenCheckbox" : "Conquer World",
+  "ChosenCheckboxAssertion" : "Conquer World",
+  "GraphicsScaleToFitAssert" : "Graphics/ScaleToFit",
+  "ChosenRadiobox" : "Breakfast",
+  "ChosenRadioboxAssertion" : "Breakfast"
+}
